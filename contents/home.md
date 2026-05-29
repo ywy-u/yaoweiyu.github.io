@@ -1,4 +1,4 @@
-[![ywy-u](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/ywy-u)
+[![ywy-u](https://img.shields.io/badge/YWY-github-blue?logo=github)](https://github.com/ywy-u)
 
 I am currently an undergraduate student majoring in Information Security, Department of Computer Science, Shanghai Jiao Tong University.
 
